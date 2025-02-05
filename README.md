@@ -9,7 +9,7 @@ This repository has been published here for educational purposes. It consists of
 Pre-requisites :
 
 * npm 10.4.0 ou ultérieure [official doc](https://docs.npmjs.com/try-the-latest-stable-version-of-npm)
-* node v20.11.0 ou ultérieure [official doc][https://nodejs.org/en/download]
+* node v20.11.0 ou ultérieure [official doc](https://nodejs.org/en/download)
 * git version 2.43.0.windows ou ultérieure [official doc](https://git-scm.com/)
 
 Note : Configuration tested and validated on Webstorm IDE version 2023.3.2
