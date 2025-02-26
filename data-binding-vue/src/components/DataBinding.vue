@@ -1,6 +1,6 @@
 <script setup>
-const name = 'John Doe'
-const items = ['Item 1', 'Item 2', 'Item 3', 'Item 4']
+const name = defineModel('name', { default: "John Doe" })
+const items = defineModel('items', { default: ['Item 1', 'Item 2', 'Item 3', 'Item 4'] })
 
 </script>
 
